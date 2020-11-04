@@ -1,0 +1,15 @@
+{
+  "name": "InternalSeasonService",
+  "sourceFolder": "./config",
+  "destinationFolder": ".",
+  "clientNpmPackageName": "@teamest/internal-season-client",
+  "serverNpmPackageName": "@teamest/internal-season-server",
+  "services": [
+    {
+      "name": "UpdateTeamSeason"
+    },
+    {
+      "name": "GetSeasonsForTeam"
+    }
+  ]
+}
