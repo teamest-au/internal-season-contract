@@ -1,6 +1,6 @@
 {
   "name": "@teamest/internal-season-contract",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "description": "Contract and generator for the internal season service",
   "main": "index.js",
   "scripts": {
